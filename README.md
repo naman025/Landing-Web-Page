@@ -1,2 +1,2 @@
-# A-Basic-Website
-A Website made using HTML, CSS
+# A Resposive Website Using HTML and CSS
+A Responsive Website made using HTML, CSS
